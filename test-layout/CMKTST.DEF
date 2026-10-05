@@ -1,0 +1,4 @@
+LIBRARY CMKTST
+ 
+ EXPORTS 
+    KbdLayerDescriptor @1

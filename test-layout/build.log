@@ -1,0 +1,223 @@
+CMKTST.C
+CMKTST.C
+Note: including file: C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\windows.h
+Note: including file:  C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\sdkddkver.h
+Note: including file:  C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\excpt.h
+Note: including file:   C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\crtdefs.h
+Note: including file:    C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\specstrings.h
+Note: including file:     C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\sal.h
+Note: including file:     C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\specstrings_adt.h
+Note: including file:     C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\specstrings_strict.h
+Note: including file:      C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\specstrings_undef.h
+Note: including file:  C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\stdarg.h
+Note: including file:   C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\crtdefs.h
+Note: including file:   C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\vadefs.h
+Note: including file:    C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\crtdefs.h
+Note: including file:  C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\windef.h
+Note: including file:   C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\winnt.h
+Note: including file:    C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\ctype.h
+Note: including file:     C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\crtdefs.h
+Note: including file:    C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\basetsd.h
+Note: including file:    C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\guiddef.h
+Note: including file:     C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\string.h
+Note: including file:      C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\crtdefs.h
+Note: including file:    C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\pshpack4.h
+Note: including file:    C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\poppack.h
+Note: including file:    c:\program files (x86)\microsoft keyboard layout creator 1.4\inc\pshpack4.h
+Note: including file:    c:\program files (x86)\microsoft keyboard layout creator 1.4\inc\pshpack2.h
+Note: including file:    c:\program files (x86)\microsoft keyboard layout creator 1.4\inc\poppack.h
+Note: including file:    c:\program files (x86)\microsoft keyboard layout creator 1.4\inc\pshpack2.h
+Note: including file:    C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\pshpack2.h
+Note: including file:    C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\poppack.h
+Note: including file:    c:\program files (x86)\microsoft keyboard layout creator 1.4\inc\poppack.h
+Note: including file:    c:\program files (x86)\microsoft keyboard layout creator 1.4\inc\pshpack8.h
+Note: including file:    c:\program files (x86)\microsoft keyboard layout creator 1.4\inc\poppack.h
+Note: including file:    c:\program files (x86)\microsoft keyboard layout creator 1.4\inc\poppack.h
+Note: including file:    C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\ktmtypes.h
+Note: including file:  C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\winbase.h
+Note: including file:   C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\winerror.h
+Note: including file:  C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\wingdi.h
+Note: including file:   C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\pshpack1.h
+Note: including file:   C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\poppack.h
+Note: including file:   C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\pshpack2.h
+Note: including file:   C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\poppack.h
+Note: including file:   C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\pshpack2.h
+Note: including file:   C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\poppack.h
+Note: including file:   C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\pshpack4.h
+Note: including file:   C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\poppack.h
+Note: including file:   C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\pshpack4.h
+Note: including file:   C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\poppack.h
+Note: including file:  C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\winuser.h
+Note: including file:   C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\pshpack2.h
+Note: including file:   C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\poppack.h
+Note: including file:   C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\tvout.h
+Note: including file:  C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\winnls.h
+Note: including file:  C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\wincon.h
+Note: including file:  C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\winver.h
+Note: including file:  C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\winreg.h
+Note: including file:   C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\reason.h
+Note: including file:  C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\winnetwk.h
+Note: including file:  C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\stralign.h
+Note: including file: C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\kbd.h
+Note: including file: j:\c\cmkukb\test-layout\CMKTST.h
+Note: including file:  C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\kbd.h
+Note: including file: j:\c\cmkukb\test-layout\layout-abi.h
+Microsoft (R) Windows (R) Resource Compiler Version 6.0.5724.0
+
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+   Creating library CMKTST.lib and object CMKTST.exp
+LINK : warning LNK4254: section '.rdata' (40000040) merged into '.data' (C0000040) with different attributes
+LINK : warning LNK4254: section '.text' (60000020) merged into '.data' (C0000040) with different attributes
+LINK : warning LNK4254: section '.edata' (40000040) merged into '.data' (C0000040) with different attributes
+LINK : warning LNK4254: section '.bss' (C0000080) merged into '.data' (C0000040) with different attributes
+CMKTST.C
+CMKTST.C
+Note: including file: C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\windows.h
+Note: including file:  C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\sdkddkver.h
+Note: including file:  C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\excpt.h
+Note: including file:   C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\crtdefs.h
+Note: including file:    C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\specstrings.h
+Note: including file:     C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\sal.h
+Note: including file:     C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\specstrings_adt.h
+Note: including file:     C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\specstrings_strict.h
+Note: including file:      C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\specstrings_undef.h
+Note: including file:  C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\stdarg.h
+Note: including file:   C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\crtdefs.h
+Note: including file:   C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\vadefs.h
+Note: including file:    C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\crtdefs.h
+Note: including file:  C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\windef.h
+Note: including file:   C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\winnt.h
+Note: including file:    C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\ctype.h
+Note: including file:     C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\crtdefs.h
+Note: including file:    C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\basetsd.h
+Note: including file:    C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\guiddef.h
+Note: including file:     C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\string.h
+Note: including file:      C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\crtdefs.h
+Note: including file:    C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\pshpack4.h
+Note: including file:    C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\poppack.h
+Note: including file:    c:\program files (x86)\microsoft keyboard layout creator 1.4\inc\pshpack4.h
+Note: including file:    c:\program files (x86)\microsoft keyboard layout creator 1.4\inc\pshpack2.h
+Note: including file:    c:\program files (x86)\microsoft keyboard layout creator 1.4\inc\poppack.h
+Note: including file:    c:\program files (x86)\microsoft keyboard layout creator 1.4\inc\pshpack2.h
+Note: including file:    C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\pshpack2.h
+Note: including file:    C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\poppack.h
+Note: including file:    c:\program files (x86)\microsoft keyboard layout creator 1.4\inc\poppack.h
+Note: including file:    c:\program files (x86)\microsoft keyboard layout creator 1.4\inc\pshpack8.h
+Note: including file:    c:\program files (x86)\microsoft keyboard layout creator 1.4\inc\poppack.h
+Note: including file:    c:\program files (x86)\microsoft keyboard layout creator 1.4\inc\poppack.h
+Note: including file:    C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\ktmtypes.h
+Note: including file:  C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\winbase.h
+Note: including file:   C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\winerror.h
+Note: including file:  C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\wingdi.h
+Note: including file:   C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\pshpack1.h
+Note: including file:   C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\poppack.h
+Note: including file:   C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\pshpack2.h
+Note: including file:   C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\poppack.h
+Note: including file:   C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\pshpack2.h
+Note: including file:   C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\poppack.h
+Note: including file:   C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\pshpack4.h
+Note: including file:   C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\poppack.h
+Note: including file:   C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\pshpack4.h
+Note: including file:   C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\poppack.h
+Note: including file:  C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\winuser.h
+Note: including file:   C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\pshpack2.h
+Note: including file:   C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\poppack.h
+Note: including file:   C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\tvout.h
+Note: including file:  C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\winnls.h
+Note: including file:  C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\wincon.h
+Note: including file:  C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\winver.h
+Note: including file:  C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\winreg.h
+Note: including file:   C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\reason.h
+Note: including file:  C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\winnetwk.h
+Note: including file:  C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\stralign.h
+Note: including file: C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\kbd.h
+Note: including file: j:\c\cmkukb\test-layout\CMKTST.h
+Note: including file:  C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\kbd.h
+Note: including file: j:\c\cmkukb\test-layout\layout-abi.h
+Microsoft (R) Windows (R) Resource Compiler Version 6.0.5724.0
+
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+   Creating library CMKTST.lib and object CMKTST.exp
+LINK : warning LNK4254: section '.rdata' (40000040) merged into '.data' (C0000040) with different attributes
+LINK : warning LNK4254: section '.text' (60000020) merged into '.data' (C0000040) with different attributes
+LINK : warning LNK4254: section '.edata' (40000040) merged into '.data' (C0000040) with different attributes
+LINK : warning LNK4254: section '.bss' (C0000080) merged into '.data' (C0000040) with different attributes
+CMKTST.C
+CMKTST.C
+Note: including file: C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\windows.h
+Note: including file:  C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\sdkddkver.h
+Note: including file:  C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\excpt.h
+Note: including file:   C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\crtdefs.h
+Note: including file:    C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\specstrings.h
+Note: including file:     C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\sal.h
+Note: including file:     C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\specstrings_adt.h
+Note: including file:     C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\specstrings_strict.h
+Note: including file:      C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\specstrings_undef.h
+Note: including file:  C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\stdarg.h
+Note: including file:   C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\crtdefs.h
+Note: including file:   C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\vadefs.h
+Note: including file:    C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\crtdefs.h
+Note: including file:  C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\windef.h
+Note: including file:   C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\winnt.h
+Note: including file:    C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\ctype.h
+Note: including file:     C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\crtdefs.h
+Note: including file:    C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\basetsd.h
+Note: including file:    C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\guiddef.h
+Note: including file:     C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\string.h
+Note: including file:      C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\crtdefs.h
+Note: including file:    C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\pshpack4.h
+Note: including file:    C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\poppack.h
+Note: including file:    c:\program files (x86)\microsoft keyboard layout creator 1.4\inc\pshpack4.h
+Note: including file:    c:\program files (x86)\microsoft keyboard layout creator 1.4\inc\pshpack2.h
+Note: including file:    c:\program files (x86)\microsoft keyboard layout creator 1.4\inc\poppack.h
+Note: including file:    c:\program files (x86)\microsoft keyboard layout creator 1.4\inc\pshpack2.h
+Note: including file:    C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\pshpack2.h
+Note: including file:    C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\poppack.h
+Note: including file:    c:\program files (x86)\microsoft keyboard layout creator 1.4\inc\poppack.h
+Note: including file:    c:\program files (x86)\microsoft keyboard layout creator 1.4\inc\pshpack8.h
+Note: including file:    c:\program files (x86)\microsoft keyboard layout creator 1.4\inc\poppack.h
+Note: including file:    c:\program files (x86)\microsoft keyboard layout creator 1.4\inc\poppack.h
+Note: including file:    C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\ktmtypes.h
+Note: including file:  C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\winbase.h
+Note: including file:   C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\winerror.h
+Note: including file:  C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\wingdi.h
+Note: including file:   C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\pshpack1.h
+Note: including file:   C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\poppack.h
+Note: including file:   C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\pshpack2.h
+Note: including file:   C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\poppack.h
+Note: including file:   C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\pshpack2.h
+Note: including file:   C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\poppack.h
+Note: including file:   C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\pshpack4.h
+Note: including file:   C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\poppack.h
+Note: including file:   C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\pshpack4.h
+Note: including file:   C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\poppack.h
+Note: including file:  C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\winuser.h
+Note: including file:   C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\pshpack2.h
+Note: including file:   C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\poppack.h
+Note: including file:   C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\tvout.h
+Note: including file:  C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\winnls.h
+Note: including file:  C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\wincon.h
+Note: including file:  C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\winver.h
+Note: including file:  C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\winreg.h
+Note: including file:   C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\reason.h
+Note: including file:  C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\winnetwk.h
+Note: including file:  C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\stralign.h
+Note: including file: C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\kbd.h
+Note: including file: j:\c\cmkukb\test-layout\CMKTST.h
+Note: including file:  C:\Program Files (x86)\Microsoft Keyboard Layout Creator 1.4\inc\kbd.h
+Note: including file: j:\c\cmkukb\test-layout\layout-abi.h
+Microsoft (R) Windows (R) Resource Compiler Version 6.0.5724.0
+
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+   Creating library CMKTST.lib and object CMKTST.exp
+LINK : warning LNK4254: section '.rdata' (40000040) merged into '.data' (C0000040) with different attributes
+LINK : warning LNK4254: section '.text' (60000020) merged into '.data' (C0000040) with different attributes
+LINK : warning LNK4254: section '.edata' (40000040) merged into '.data' (C0000040) with different attributes
+LINK : warning LNK4254: section '.bss' (C0000080) merged into '.data' (C0000040) with different attributes
+Built amd64, WOW64, and native x86 variants. Nothing installed.

@@ -1,0 +1,4 @@
+LIBRARY BKSPUK
+ 
+ EXPORTS 
+    KbdLayerDescriptor @1

@@ -1,0 +1,16 @@
+Original sources, KLC and DLL: SHA-256 unchanged
+Original DLL: table RVA=0x1000; bytes at type/subtype offsets=(34668816, 1042)
+amd64: correct PE architecture; native/no-entry/no-imports; type=4 subtype=0; Caps/Backspace=VK_BACK
+wow64: correct PE architecture; native/no-entry/no-imports; type=4 subtype=0; Caps/Backspace=VK_BACK
+x86: correct PE architecture; native/no-entry/no-imports; type=4 subtype=0; Caps/Backspace=VK_BACK
+Original DLL modifier_keys: identical
+Original DLL modifier_states: identical
+Original DLL characters: identical
+Original DLL deadkeys: identical
+Original DLL scancodes: preserved (allowed Caps change: [])
+Original DLL e0: identical
+Original DLL e1: identical
+Original DLL flags: identical
+Original DLL ligature_counts: identical
+Original DLL ligature_pointer: identical
+PASS: binary mappings preserved across all three builds

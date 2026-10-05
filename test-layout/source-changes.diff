@@ -1,0 +1,113 @@
+--- BKSPUK.C
++++ test-layout/CMKTST.C
+@@ -1,5 +1,5 @@
+ /***************************************************************************\
+-* Module Name: BKSPUK.C
++* Module Name: CMKTST.C
+ *
+ * keyboard layout
+ *
+@@ -11,7 +11,8 @@
+ 
+ #include <windows.h>
+ #include "kbd.h"
+-#include "BKSPUK.h"
++#include "CMKTST.h"
++#include "layout-abi.h"
+ 
+ #if defined(_M_IA64)
+ #pragma section(".data")
+@@ -332,7 +333,7 @@
+     0x37,    L"Num *",
+     0x38,    L"Alt",
+     0x39,    L"Space",
+-    0x3a,    L"Caps Lock",
++    0x3a,    L"Backspace",
+     0x3b,    L"F1",
+     0x3c,    L"F2",
+     0x3d,    L"F3",
+@@ -822,9 +823,11 @@
+     /*
+      * Ligatures
+      */
+-    0,
+-    0,
+-    NULL
++    0,       // nLgMax
++    0,       // cbLgEntry
++    NULL,    // pLigature
++    4,       // dwType: enhanced 101/102-key keyboard
++    0        // dwSubType
+ };
+ 
+ PKBDTABLES KbdLayerDescriptor(VOID)
+--- BKSPUK.H
++++ test-layout/CMKTST.H
+@@ -1,5 +1,5 @@
+ /****************************** Module Header ******************************\
+-* Module Name: BKSPUK.H
++* Module Name: CMKTST.H
+ *
+ * keyboard layout header
+ *
+@@ -69,3 +69,7 @@
+ #undef  T31
+  #define T31 _EQ(                                        'K'                      )
+ 
++
++// Physical Caps Lock (scan code 0x3A) is Backspace.
++#undef T3A
++#define T3A _EQ(BACK)
+--- BKSPUK.RC
++++ test-layout/CMKTST.RC
+@@ -13,13 +13,13 @@
+        BLOCK "000004B0"
+        BEGIN
+            VALUE "CompanyName",     "mbman40@hotmail.com\0"
+-           VALUE "FileDescription", "Colemak UK BKSP - Custom Keyboard Layout\0"
++           VALUE "FileDescription", "Colemak UK BKSP - Type4 Test Keyboard Layout\0"
+            VALUE "FileVersion",     "1, 0, 3, 40\0"
+-           VALUE "InternalName",    "bkspuk (3.40)\0"
++           VALUE "InternalName",    "cmktst (3.40)\0"
+            VALUE "ProductName","Created by MSKLC 1.4\0"
+            VALUE "Release Information","Created by MSKLC 1.4\0"
+            VALUE "LegalCopyright",  "(c) 2026 mbman40@hotmail.com\0"
+-           VALUE "OriginalFilename","bkspuk\0"
++           VALUE "OriginalFilename","cmktst.dll\0"
+            VALUE "ProductVersion",  "1, 0, 3, 40\0"
+        END
+    END
+@@ -39,7 +39,7 @@
+ STRINGTABLE DISCARDABLE
+ LANGUAGE 9, 1
+ BEGIN
+-    1000    "Colemak UK BKSP - Custom"
++    1000    "Colemak UK BKSP - Type4 Test"
+ END
+ 
+ 
+--- BKSPUK.DEF
++++ test-layout/CMKTST.DEF
+@@ -1,4 +1,4 @@
+-LIBRARY BKSPUK
++LIBRARY CMKTST
+  
+  EXPORTS 
+     KbdLayerDescriptor @1
+--- Colemak UK BKSP - Custom.klc
++++ test-layout/CMKTST.klc
+@@ -1,4 +1,4 @@
+-KBD	BKSPUK	"Colemak UK BKSP - Custom"
++KBD	CMKTST	"Colemak UK BKSP - Type4 Test"
+ 
+ COPYRIGHT	"(c) 2026 mbman40@hotmail.com"
+ 
+@@ -562,7 +562,7 @@
+ 
+ DESCRIPTIONS
+ 
+-0409	Colemak UK BKSP - Custom
++0409	Colemak UK BKSP - Type4 Test
+ LANGUAGENAMES
+ 
+ 0409	English (United Kingdom)
